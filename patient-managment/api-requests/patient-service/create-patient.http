@@ -3,11 +3,11 @@ POST http://localhost:4000/patients/registration
 Content-Type: application/json
 
 {
-  "name": "Adam Smith",
-  "email": "Adam12@gmail.com",
-  "address": "No:15/A Main Street New York",
-  "dateOfBirth": "1985-08-15",
-  "registeredDate": "2025-03-27"
+  "name": "G. Smith john",
+  "email": "ravindu@gmail.com",
+  "address": "No:15/A Clock Street  Manila",
+  "dateOfBirth": "2000-08-15",
+  "registeredDate": "2025-03-30"
 }
 
 ###

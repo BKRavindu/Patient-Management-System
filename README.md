@@ -12,9 +12,9 @@ A full-fledged **Patient Management System** built using **Java Spring Boot** an
 
 ## 🚀 Technologies Used
 
-- **Java 17**
+- **Java 21**
 - **Spring Boot**
-- **Spring Cloud / Netflix Eureka**
+- **Spring Cloud**
 - **Spring Security + JWT**
 - **Spring Data JPA**
 - **MySQL / PostgreSQL**

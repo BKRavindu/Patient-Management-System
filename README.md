@@ -20,8 +20,8 @@ A full-fledged **Patient Management System** built using **Java Spring Boot** an
 - **MySQL / PostgreSQL**
 - **Docker & Docker Compose**
 - **AWS EC2 / S3 / RDS**
-- **RabbitMQ / Kafka (optional)**
-- **Swagger/OpenAPI for API docs**
+- ** Kafka/ gRPC**
+- **Swagger docs**
 
 ---
 
@@ -31,12 +31,8 @@ This system is composed of several services:
 
 - **API Gateway**
 - **Patient Service**
-- **Doctor Service**
-- **Appointment Service**
-- **Notification Service**
 - **Auth Service**
 - **Config Server**
-- **Service Discovery (Eureka)**
 
 ---
 
